@@ -1,0 +1,70 @@
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\bin\Debug\tb.exe
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\bin\Debug\tb.pdb
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\bin\Debug\tb.xml
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\tb.Resources.resources
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\tb.exe
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\tb.xml
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\tb.pdb
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\tb.index.resources
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\tb.Pendaftaran.resources
+C:\Users\Dwi\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.SmallStars.resources
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\tb.highflyer.resources
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\tb.trailblazers.resources
+C:\Users\Dwi\documents\visual studio 2010\Projects\tb\tb\obj\x86\Debug\tb.frontrunner.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.exe
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.xml
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.pdb
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\bin\Debug\tb.exe
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\bin\Debug\tb.pdb
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\bin\Debug\tb.xml
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.frontrunner.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.highflyer.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.index.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.Resources.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.Pendaftaran.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.SmallStars.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.trailblazers.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.vbproj.GenerateResource.Cache
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.login.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb\tb\obj\x86\Debug\tb.Jadwal.resources
+H:\tb sayang\tb\obj\x86\Debug\tb.exe
+H:\tb sayang\tb\obj\x86\Debug\tb.xml
+H:\tb sayang\tb\obj\x86\Debug\tb.pdb
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.exe
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.xml
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.pdb
+D:\projek vb\tb sayang\tb\bin\Debug\tb.exe
+D:\projek vb\tb sayang\tb\bin\Debug\tb.pdb
+D:\projek vb\tb sayang\tb\bin\Debug\tb.xml
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.frontrunner.resources
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.highflyer.resources
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.index.resources
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.Jadwal.resources
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.login.resources
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.Resources.resources
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.Pendaftaran.resources
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.SmallStars.resources
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.trailblazers.resources
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.vbproj.GenerateResource.Cache
+D:\projek vb\tb sayang\tb\obj\x86\Debug\tb.Data_Member.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.exe
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.xml
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.pdb
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\bin\Debug\tb.exe
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\bin\Debug\tb.pdb
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\bin\Debug\tb.xml
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.Data_Member.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.frontrunner.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.highflyer.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.index.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.Jadwal.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.login.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.Resources.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.Pendaftaran.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.SmallStars.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.trailblazers.resources
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.vbproj.GenerateResource.Cache
+C:\Users\Rizki Aresetya Putra\Documents\Visual Studio 2010\Projects\tb sayang\tb sayang\tb\obj\x86\Debug\tb.Pencarian.resources
